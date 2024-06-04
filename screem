@@ -95,7 +95,7 @@ welcomeSound.Volume = 3
 
 welcomeSound:Play()
 
-wait(0.5)
+wait(3)
 
 local welcomeSoundId = "rbxassetid://2323663829"
 
